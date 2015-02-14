@@ -1,0 +1,13 @@
+//
+//  SideBarViewController.h
+//  CmapusNavigation
+//
+//  Created by Xitao Lv on 4/19/14.
+//  Copyright (c) 2014 Xitao Lv. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SideBarViewController : UITableViewController
+
+@end
